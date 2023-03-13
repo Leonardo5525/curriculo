@@ -8,3 +8,4 @@
 - **Objetivo:** Almejo me esforçar tanto no estudos para que possa entrar o quanto antes no mercado de trabalho e desse modo possa me utilizar de toda experiência para me tornar o melhor programador possível.
 - **Estudos:** Em desenvolvimento Python e Linux
 - **Cidade:** Marília - SP
+- **Telefone** XXXXX-XXXX
